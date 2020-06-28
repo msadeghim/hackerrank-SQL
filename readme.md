@@ -9,3 +9,6 @@ good problems:
 * Basic Join > Contest Leaderboard
 * Advanced Join > SQL Project Planning
 * Advanced Join > Symmetric Pairs
+* Advanced Join > Interviews
+* Advanced Join > 15 Days of Learning SQL
+* Alternative Queries > Print Prime Numbers
