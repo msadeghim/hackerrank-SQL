@@ -1,4 +1,6 @@
-good problems:
+link: https://www.hackerrank.com/domains/sql
+
+## good problems:
 * Advanced Select > Binary Tree Nodes
 * Advanced Select > Occupations
 * Aggregation > Top Earners
